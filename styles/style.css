@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient( rgba(101 101 219 /70%), rgba(92 92 192 /50%)),url("../assets/image/smith.jpeg");
+  background-image: linear-gradient(rgba(101 101 219 /70%),rgba(92 92 192 /50%)),url("../assets/image/smith.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
